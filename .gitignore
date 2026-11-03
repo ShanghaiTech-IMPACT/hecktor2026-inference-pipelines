@@ -1,0 +1,15 @@
+# Model bundles are versioned independently and should be uploaded to a model hub.
+/weights/*/model/**
+!/weights/README.md
+!/weights/*/README.md
+
+# Local datasets, predictions, and run logs are not source code.
+/local_testdata/
+/test_outputs/
+/runs/
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+/.venv*/
+

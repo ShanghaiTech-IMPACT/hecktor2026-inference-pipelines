@@ -1,0 +1,8 @@
+nnunetv2==2.6.0
+SimpleITK==2.5.3
+scipy==1.16.3
+pandas==2.3.3
+scikit-learn==1.9.0
+joblib==1.5.2
+catboost==1.2.10
+scikit-survival==0.28.0

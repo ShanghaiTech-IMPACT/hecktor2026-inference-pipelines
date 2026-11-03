@@ -1,0 +1,13 @@
+**
+!requirements.txt
+!submissions/
+!submissions/dataset804_807_refine_emptytiny_t0_804p3rfs_v1/
+!submissions/dataset804_807_refine_emptytiny_t0_804p3rfs_v1/src/
+!submissions/dataset804_807_refine_emptytiny_t0_804p3rfs_v1/src/inference.py
+!submissions/dataset804_807_refine_emptytiny_t0_804p3rfs_v1/src/hecktor_pipeline.py
+!submissions/dataset804_807_refine_emptytiny_t0_804p3rfs_v1/src/train_hecktor_tn_stage_baseline.py
+!submissions/dataset804_807_refine_emptytiny_t0_804p3rfs_v1/src/submission_models.py
+!weights/
+!weights/dataset804_807_refine_emptytiny_t0_804p3rfs_v1/
+!weights/dataset804_807_refine_emptytiny_t0_804p3rfs_v1/model/
+!weights/dataset804_807_refine_emptytiny_t0_804p3rfs_v1/model/**

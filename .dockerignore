@@ -1,0 +1,10 @@
+.git
+.venv
+.venv*
+__pycache__
+*.py[cod]
+local_testdata
+test_outputs
+runs
+*.log
+
