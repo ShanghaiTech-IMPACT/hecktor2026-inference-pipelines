@@ -2,6 +2,7 @@
 /weights/*/model/**
 !/weights/README.md
 !/weights/*/README.md
+/weights/.cache/
 
 # Local datasets, predictions, and run logs are not source code.
 /local_testdata/
